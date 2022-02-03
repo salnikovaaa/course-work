@@ -1,0 +1,26 @@
+
+.wrapper {
+    background: #DCDCDC;
+    margin: 5px auto;
+    width: 700px;
+}
+.input-group{
+    padding: 5px 5px;
+}
+.form-button{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.custom-error{
+    text-align: center;
+}
+.btn{
+
+    border: 2px solid #000000; /* Параметры рамки */
+    background: #FFFFFF; /* Цвет фона */
+    font-size: 10px; /* Размер текста */
+    padding: 5px 20px; /* Поля вокруг текста */
+
+}
+
